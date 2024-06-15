@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 ,MatNo,Name,Age,Grade
 0,1811,Sola Egbune,23,55
 1,1813,Martin Alegbe,25,77
 2,1817,Durojaiye Adamu,24,60
+=======
+,MatNo,Name,Age,Grade
+0,1811,Sola Egbune,23,55
+1,1813,Martin Alegbe,25,77
+2,1817,Durojaiye Adamu,24,60
+>>>>>>> 9c2c71e33cf4d6b579c7751f96f656b7f7a2b2aa
